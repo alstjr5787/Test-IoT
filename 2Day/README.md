@@ -1,1 +1,2 @@
-오늘 공부한 내용
+# C 수업 2일차
+asdasdasdasdsda
