@@ -137,7 +137,7 @@ int main() {
 
         switch (choice) {
             case 1:
-                printf("사입할 학번을 입력해주세요: ");
+                printf("삽입할 학번을 입력해주세요: ");
                 scanf("%d", &id);
                 getchar();
                 printf("삽입할 이름을 입력해주세요: ");
